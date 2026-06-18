@@ -136,8 +136,3 @@ These checks are derived from the analytical challenges this paper surfaces. App
 - Encoding rates (k/n) are competitive across the board (shown for selected codes; not surveyed systematically)
 
 ---
-
-## Verification
-- **Public post / GitHub URL:** https://arxiv.org/abs/2606.17268
-- **Teardown date:** 2026-06-18
-- **Teardown author:** Post Fiat Task Node validator review
